@@ -430,7 +430,6 @@ body {
     color: #6f6f8d;
 }
 
-/* Responsive */
 @media (max-width: 900px) {
     .hero {
         grid-template-columns: 1fr;
